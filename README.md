@@ -4,4 +4,4 @@
 
 Para rodar o projeto digite :
 ````
-NPM instal react
+NPM nodeapp.js
